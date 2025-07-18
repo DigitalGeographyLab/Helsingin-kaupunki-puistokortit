@@ -2,7 +2,7 @@
 
 Tämä projekti sisältää puistokortit, puistokorttien kartat ja kuvaajat sekä interaktiivisen HTML-kartan Helsingin puistoalueista.
 
-## Katso kartta
+## Interaktiivinen kartta
 
 [🗺️ Avaa interaktiivinen kartta GitHub Pagesissa](https://DigitalGeographyLab.github.io/Helsingin-kaupunki-puistokortit/)
 
