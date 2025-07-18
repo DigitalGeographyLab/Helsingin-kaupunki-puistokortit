@@ -6,6 +6,10 @@ Tämä projekti sisältää puistokortit, puistokorttien kartat ja kuvaajat sek�
 
 [🗺️ Avaa interaktiivinen kartta GitHub Pagesissa](https://DigitalGeographyLab.github.io/Helsingin-kaupunki-puistokortit/)
 
+## Käyttöohjeet
+
+Avaa kartta selaimella yllä olevasta linkistä. Puistoa klikkaamalla saat puistokortin näkyviin.
+
 ## Kansiot
 
 - **/kuvaajat/**  
@@ -17,9 +21,6 @@ Tämä projekti sisältää puistokortit, puistokorttien kartat ja kuvaajat sek�
 - **/puistokortit/**  
   Kansio sisältää a4 kokoiset puistokortit, jotka sisältävät puistoalueen kuvaajat, kartat sekä  sijoitukset.
   
-## Käyttöohjeet
-
-Avaa kartta selaimella yllä olevasta linkistä. Voit zoomata ja tutkia puistoalueita kartalla.
 
 ## Lisätietoja
 
