@@ -22,7 +22,3 @@ Avaa kartta selaimella yllä olevasta linkistä. Puistoa klikkaamalla saat puist
   Kansio sisältää a4 kokoiset puistokortit, jotka sisältävät puistoalueen kuvaajat, kartat sekä  sijoitukset.
   
 
-## Lisätietoja
-
-Projektin tekijä: Mikko Kangasmaa  
-Lisenssi: MIT
