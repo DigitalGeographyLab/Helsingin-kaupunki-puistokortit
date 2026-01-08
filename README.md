@@ -10,5 +10,6 @@ Kartalla näkyy 50 viidellä digitaalisella jalanjäljellä (Flickr, Instagram, 
 
 ## Viittaaminen
 Jos haluat viitata tämän repositorion materiaaleihin, käytäthän:
+
 _Leppämäki, T., Ruohomäki, S., Kangasmaa, M. & Toivonen, T. (2025) Massadatoilla ymmärrystä Helsingin viheralueiden käytöstä. Teoksessa Jaakkola, M. (toim.) Viheralueiden käyttö Helsingissä. Kaupunkiympäristön aineistoja 2025:21_
   
