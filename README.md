@@ -5,7 +5,7 @@ Lisätietoa korteista ja työstä [hankkeen loppuraportista](https://www.hel.fi/
 
 
 ## Interaktiivinen kartta
-Kartalla näkyy 50 viidellä digitaalisella jalanjäljellä (Flickr, Instagram, matkapuhelinaineisto, iNaturalist ja Strava Metro) määriteltynä suosituinta viheraluetta. Alueita klikkaamalla avautuu sen viheraluekortti, joka näyttää eri aineistoista johdettuja tietoja viheralueen käytöstä. 
+Kartalla näkyy 50 viidellä massadatalla (Flickr, Instagram, matkapuhelinaineisto, iNaturalist ja Strava Metro) määriteltynä suosituinta viheraluetta. Alueita klikkaamalla avautuu sen viheraluekortti, joka näyttää eri aineistoista johdettuja tietoja viheralueen käytöstä. 
 
 **[🗺️ Avaa interaktiivinen kartta](https://DigitalGeographyLab.github.io/Helsingin-kaupunki-puistokortit/)**
 
